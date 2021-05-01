@@ -1,0 +1,8 @@
+{
+	"$schema": "https://json.schemastore.org/prettierrc.json",
+	"jsxSingleQuote": true,
+	"semi": false,
+	"singleQuote": true,
+	"useTabs": true,
+	"vueIndentScriptAndStyle": true
+}
