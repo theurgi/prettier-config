@@ -1,20 +1,20 @@
 {
-	"name": "@theurgi/prettier-config",
-	"version": "3.0.0",
-	"description": "A Prettier config",
-	"main": "index.json",
-	"author": "theurgi <x@theurgi.xyz> (https://theurgi.xyz/)",
-	"license": "MIT",
-	"keywords": [
-		"prettier",
-		"prettier-config"
-	],
-	"publishConfig": {
-		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/theurgi/prettier-config"
-	},
-	"homepage": "https://github.com/theurgi/prettier-config"
+  "name": "@theurgi/prettier-config",
+  "version": "3.0.0",
+  "description": "A Prettier config",
+  "main": "index.json",
+  "author": "theurgi <x@theurgi.xyz> (https://theurgi.xyz/)",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theurgi/prettier-config"
+  },
+  "homepage": "https://github.com/theurgi/prettier-config"
 }
